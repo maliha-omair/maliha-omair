@@ -8,8 +8,12 @@ I am a software engineer. I love everything about coding. I have passion for lea
 
 <a href="https://mo-meetup.herokuapp.com/" target="blank"><img align="center" src="https://github.com/maliha-omair/maliha-omair.github.io/blob/main/images/meetup/meetup.gif" height="250" width="400" /></a>
 
-#### Find more about me on: 
+#### Find more about me on:
 https://maliha-omair.github.io/
+
+### Find me around the web: 
+<a href="https://www.linkedin.com/in/maliha-omair/" target="blank"><img align="center" src="https://github.com/maliha-omair/maliha-omair.github.io/blob/gh-pages/images/linkedin.svg" height="40" width="40"/></a>
+<a href="https://angel.co/u/maliha-omair" target="blank"><img align="center" src="https://github.com/maliha-omair/maliha-omair.github.io/blob/gh-pages/images/angellist.svg" height="40" width="40"/></a>
 
 
 ![snake gif](https://github.com/maliha-omair/maliha-omair/blob/output/github-contribution-grid-snake.gif)
