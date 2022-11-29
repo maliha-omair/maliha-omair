@@ -7,6 +7,7 @@ I am a software engineer. I love everything about coding. I have passion for lea
 #### Find me all arround the web: 
 ![snake gif](https://github.com/maliha-omair/maliha-omair/blob/output/github-contribution-grid-snake.gif)
 
+[![Maliha's GitHub stats](https://github-readme-stats.vercel.app/api?username=maliha-omair)](https://github.com/maliha-omair/github-readme-stats)
 
 
 
