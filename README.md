@@ -1,5 +1,5 @@
 ### Hey everyone, I am Maliha.  👋
-I am a software engineer. I love everything about coding. I have passion for learning and problem solving in general. I recently finished full stack course from app academy. 
+I am a software engineer. I love everything about coding. I have passion for learning and problem solving in general. I recently finished Full Stack course from App Academy. 
 
 #### My recent work: 
 <a href="https://boardmania.herokuapp.com" target="blank"><img align="center" src="https://github.com/maliha-omair/maliha-omair.github.io/blob/main/images/Ludo/Ludo.gif" height="250" width="400"/></a>
